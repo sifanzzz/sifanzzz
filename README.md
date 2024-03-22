@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sifan</h1>
 <h3 align="center">A passionate data analyst studying at UBC Master of Data Science Program.</h3>
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently learning Machine Learning. **
 - 📫 How to reach me **sifanzhang01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
