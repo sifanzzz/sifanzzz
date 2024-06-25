@@ -1,9 +1,29 @@
 <h1 align="center">Hi 👋, I'm Sifan</h1>
-<h3 align="center">A passionate data analyst studying at UBC Master of Data Science Program.</h3>
 
-- 🌱 I’m currently studying Machine Learning. 
-- 📫 How to reach me **sifanzhang01@gmail.com**
-- 💼 Linkedin: **https://www.linkedin.com/in/sifan-zhang-profile/**
+### Data Scientist | Business Analyst | Data Enthusiast
+
+
+- 📫 **sifanzhang01@gmail.com**
+- 💼 **https://www.linkedin.com/in/sifan-zhang-profile/**
+
+
+**About Me**
+
+Welcome to my GitHub profile! I am Sifan Zhang, a passionate and dedicated data scientist and business analyst with over 3 years of experience in data-driven business development and analysis. Currently, I am pursuing a Master of Data Science at the University of British Columbia, where I am honing my skills in advanced data analytics and machine learning.
+
+I thrive on transforming raw data into meaningful insights that drive strategic decisions and business growth. My background spans various industries, including real estate, e-commerce, and healthcare, where I have successfully developed data models, conducted complex analyses, and delivered actionable insights. I am proficient in SQL, Python, R, and various data visualization tools such as Tableau and Power BI.
+
+
+**What I Do**
+
+- **Data Analysis & Visualization**: Skilled in extracting, cleaning, and analyzing large datasets to uncover trends and patterns. Proficient in creating interactive dashboards and visualizations to communicate insights effectively.
+
+- **Machine Learning**: Experienced in developing predictive models and conducting feature engineering to enhance model performance.
+
+- **Business Analytics**: Expertise in financial planning, market research, and performance analysis to support strategic decision-making.
+
+- **Project Management**: Proven ability to manage projects from conception to completion, ensuring timely delivery and high-quality outcomes.
+
   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
