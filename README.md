@@ -9,7 +9,9 @@
 
 **About Me**
 
-Welcome to my GitHub profile! I am Sifan Zhang, a passionate and dedicated data scientist and business analyst with over 3 years of experience in data-driven business development and analysis. Currently, I am pursuing a Master of Data Science at the University of British Columbia, where I am honing my skills in advanced data analytics and machine learning.
+Welcome to my GitHub profile! 
+
+I am Sifan Zhang, a passionate and dedicated data scientist and business analyst with over 5 years of experience in data-driven business development and analysis. I just graduated from the Master of Data Science program, my second master's degree, at the University of British Columbia, where I am honing my skills in advanced data analytics and machine learning.
 
 I thrive on transforming raw data into meaningful insights that drive strategic decisions and business growth. My background spans various industries, including real estate, e-commerce, and healthcare, where I have successfully developed data models, conducted complex analyses, and delivered actionable insights. I am proficient in SQL, Python, R, and various data visualization tools such as Tableau and Power BI.
 
